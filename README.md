@@ -47,3 +47,4 @@ Tools Used: Visual Studio Code, Expo CLI, GitHub
 Database: Firestore
 
 Design Tools: Figma 
+
